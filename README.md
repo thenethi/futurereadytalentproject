@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://witty-grass-046b80600.2.azurestaticapps.net
-**Project demo video Link** - 
+**Project demo video Link** - https://youtu.be/M0TTPn906oA 
 
 ## Azure Technologies Used -
 - Health Bot
